@@ -1,0 +1,6 @@
+ignore:
+  resource_names:
+      - ExportTask
+      - LogGroup
+      - LogStream
+model_name: logs
